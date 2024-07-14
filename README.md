@@ -15,6 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjmarklll&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjmarklll)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjmarklll&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com/?user=cjmarklll&theme=radical)
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cjmarklll&theme=tokyo-night)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cjmarklll&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
 
 
