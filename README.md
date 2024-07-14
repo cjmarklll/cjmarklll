@@ -40,6 +40,11 @@
 <p>&emsp;&emsp;想要探索计算机世界的奥秘与解决实际问题+......</p>
 <p>&emsp;&emsp;让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,java,linux,mysql,mongodb,github,git,arch,docker,cpp,vim" />
+  </a>
+</p>
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -48,6 +53,13 @@
 </td></tr>
 
 <tr><td>
+  
+## <img height=28 src="https://th.bing.com/th?id=OIP.9pTllYb2v84uOwT4wpooSwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"> lettcode
+
+
+
+  
+<img src="https://stats.justsong.cn/api/leetcode?username=ai-li-di-yi-bai-lan&cn=true&theme=dark" style="box-shadow:none !important">
 
 
 ## 📊 GitHub 数据统计
@@ -62,6 +74,9 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cjmarklll&theme=tokyo-night)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cjmarklll&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
 
