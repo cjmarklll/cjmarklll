@@ -1,19 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cjmarklll/cjmarklll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
-Here are some ideas to get you started:
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://space.bilibili.com/53069777/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=cjmarklll&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjmarklll/cjmarklll/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cjmarklll/cjmarklll/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cjmarklll/cjmarklll/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/120105002?v=4" />
+
+<p>&emsp;&emsp;嗨，我是MUGGLE。热爱编程、读书、健身、旅行。</p>
+<p>&emsp;&emsp;想要探索计算机世界的奥秘与解决实际问题+......</p>
+<p>&emsp;&emsp;让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+
+
+## 📊 GitHub 数据统计
 ![Metrics](/github-metrics.svg)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjmarklll&count_private=true&show_icons=true&theme=radical)
@@ -26,11 +63,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cjmarklll&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjmarklll/cjmarklll/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cjmarklll/cjmarklll/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cjmarklll/cjmarklll/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 
