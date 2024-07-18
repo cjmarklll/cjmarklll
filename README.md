@@ -59,7 +59,7 @@
 
 
 
-   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://stats.justsong.cn/api/leetcode?username=muggle521&cn=true&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="box-shadow:none !important" />
+   <img align="center" width="500px" alt="codeSTACKr's GitHub Stats" src="https://stats.justsong.cn/api/leetcode?username=muggle521&cn=true&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="box-shadow:none !important" />
   
 
 
@@ -73,11 +73,10 @@
  <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://my-9pd8.vercel.app/api?username=cjmarklll&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cjmarklll&show_icons=true&hide_border=false&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /><img align="center" width="388px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjmarklll&theme=radical"/>
   
-  <img src="https://streak-stats.demolab.com/?user=cjmarklll&theme=radical"/>
+  <img align="center" width="750px" higth="300px" src="https://streak-stats.demolab.com/?user=cjmarklll&theme=radical"/>
   
-  <img src="https://my-9pd8.vercel.app/api/top-langs/?username=cjmarklll&theme=merko"/>
 
 </details>
 
