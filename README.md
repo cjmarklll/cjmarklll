@@ -65,9 +65,9 @@
 ## 📊 GitHub 数据统计
 ![Metrics](/github-metrics.svg)
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjmarklll&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://my-9pd8-cjmarkllls-projects.vercel.app/api?username=codestack&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjmarklll&theme=merko)
+![Top Langs](https://my-9pd8-cjmarkllls-projects.vercel.app/api/top-langs/?username=cjmarklll&theme=merko)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cjmarklll&theme=radical)
 
 
