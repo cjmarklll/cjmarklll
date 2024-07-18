@@ -10,6 +10,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
+---
 
 <!-- profile logo 个人资料徽标 -->
   <div>
@@ -33,7 +34,7 @@
   
 <tr><td>
 
-### 🤺 About Me
+## 🤺 About Me
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/120105002?v=4" />
 
 <p>&emsp;&emsp;嗨，我是MUGGLE。热爱编程、读书、健身、旅行。</p>
@@ -58,24 +59,37 @@
 
 
 
+   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://stats.justsong.cn/api/leetcode?username=ai-li-di-yi-bai-lan&cn=true&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="box-shadow:none !important" />
   
-<img src="https://stats.justsong.cn/api/leetcode?username=ai-li-di-yi-bai-lan&cn=true&theme=dark" style="box-shadow:none !important">
+
+
+---
 
 
 ## 📊 GitHub 数据统计
 ![Metrics](/github-metrics.svg)
- 
-![Anurag's GitHub stats](https://my-9pd8-cjmarkllls-projects.vercel.app/api?username=codestack&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://my-9pd8-cjmarkllls-projects.vercel.app/api/top-langs/?username=cjmarklll&theme=merko)
-![GitHub Streak](https://streak-stats.demolab.com/?user=cjmarklll&theme=radical)
+---
+ <details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://my-9pd8-cjmarkllls-projects.vercel.app/api?username=cjmaeklll&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  
+  <img src="https://streak-stats.demolab.com/?user=cjmarklll&theme=radical"/>
+  
+  <img src="https://my-9pd8-cjmarkllls-projects.vercel.app/api/top-langs/?username=cjmarklll&theme=merko"/>
+
+</details>
+
+
+
+---
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cjmarklll&theme=tokyo-night)
 
+---
+## 数据统计
 [![trophy](https://github-profile-trophy.vercel.app/?username=cjmarklll&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 
