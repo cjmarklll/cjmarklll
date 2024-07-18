@@ -54,6 +54,9 @@
 </td></tr>
 
 <tr><td>
+
+## :star: coding time
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Muggle)](https://github.com/anuraghazra/github-readme-stats)
   
 ## <img height=28 src="https://th.bing.com/th?id=OIP.9pTllYb2v84uOwT4wpooSwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"> lettcode
 
