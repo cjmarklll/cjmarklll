@@ -61,10 +61,10 @@
 ## <img height=28 src="https://th.bing.com/th?id=OIP.9pTllYb2v84uOwT4wpooSwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"> lettcode
 
 
-
-   <img align="center" width="500px" alt="codeSTACKr's GitHub Stats" src="https://stats.justsong.cn/api/leetcode?username=muggle521&cn=true&theme=dark&show_icons=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" style="box-shadow:none !important" />
   
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/muggle521?theme=dark&ext=activity&site=cn)
 
 ---
 
