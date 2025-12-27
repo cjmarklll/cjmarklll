@@ -91,7 +91,7 @@
 
 ---
 ## 数据统计
-[![trophy](https://github-profile-trophy.vercel.app/?username=cjmarklll&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cjmarklll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
