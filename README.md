@@ -56,7 +56,7 @@
 <tr><td>
 
 ## :star: coding time
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Muggle)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=Muggle&show_icons=true&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)
   
 ## <img height=28 src="https://th.bing.com/th?id=OIP.9pTllYb2v84uOwT4wpooSwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"> lettcode
 
@@ -76,7 +76,7 @@
  <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cjmarklll&show_icons=true&hide_border=false&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /><img align="center" width="388px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjmarklll&theme=radical"/>
+  ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=cjmarklll&show_icons=true&theme=radical)
   
   <img align="center" width="750px" higth="300px" src="https://streak-stats.demolab.com/?user=cjmarklll&theme=radical"/>
   
@@ -90,8 +90,6 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cjmarklll&theme=tokyo-night)
 
 ---
-## 数据统计
-[![trophy](https://github-profile-trophy.vercel.app/?username=cjmarklll&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
