@@ -43,7 +43,7 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,linux,mysql,mongodb,github,git,arch,docker,cpp,vim" />
+    <img src="https://skillicons.dev/icons?i=idea,java,linux,mysql,go,github,git,python,docker,cpp,vim" />
   </a>
 </p>
 
